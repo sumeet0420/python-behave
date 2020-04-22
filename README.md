@@ -1,6 +1,8 @@
 # Python With 'Behave' Framework for BDD
 
 ## The shell script can be used to trigger all these commands automatically...
+`chmod 777 run-test.sh`
+`bash run-tes.sh`
 
 ## Below command can be used to execute the scenarios
 
